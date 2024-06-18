@@ -7,13 +7,14 @@
 <!-- <br> -->
  
 <!-- <a  href="https://app.daily.dev/zienmo"><img src="https://api.daily.dev/devcards/41181d273f7a46c89ce78442570af882.png?r=gbw" width="170" alt="Zien Mohammed Abdelmonaem's Dev Card"/></a> -->
- <a href="https://app.daily.dev/zienmo"><img src="https://api.daily.dev/devcards/41181d273f7a46c89ce78442570af882.png?r=4lp" width='300' alt="Zien Mohammed Abdelmonaem's Dev Card"/></a>
- <br>
+
+
+<br>
  <br>
 </p>
 
 <h1 align="center">
-<br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Zienab Mohamed <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" style="display:inline-block;margin:auto auo">
+<br> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="30px"> Hello there,I'm Ahmed yehia  <img src="https://visitcount.itsvg.in/api?id=zenab12&icon=0&color=0" style="display:inline-block;margin:auto auo">
  <br>
 </h1>
 
@@ -26,7 +27,7 @@
 - 😄 Pronouns: ahmedyehia2715@gmail.com.
 - ⚡ Fun fact: I Love Gym so much but I don't have any time to go there.
 
-# <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width=70 height=80> Tech Stack
+# <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width=70 height=80> 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
