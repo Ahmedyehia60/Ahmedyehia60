@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Yehia!;" />
 </h1>
 
-<h3 align="center">I'm Ahmed Yehia a front-end devoloper </h3>
+<h3 align="center">a passionate front-end devoloper </h3>
 
 <br/>
 
@@ -14,19 +14,19 @@
  
  🌱 I’m currently learning **React js**
 
-💬 Ask me about **HTML, CSS, Java Script and Bootstrap [here](https://www.linkedin.com/in/rawan-amr-35a895261/)**
+💬 Ask me about **HTML, CSS, Java Script and Bootstrap [here](www.linkedin.com/in/ahmed-yehia-6a126a302)**
 
 
  </div>
  
 <div align="center"> 
-  <a href="rawanamr357@gmail.com">
+  <a href="ahmedyehia2715@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/rawan-amr-35a895261/" target="_blank">
+  <a href="www.linkedin.com/in/ahmed-yehia-6a126a302" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
