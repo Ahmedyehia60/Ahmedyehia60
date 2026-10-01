@@ -4,27 +4,27 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Yehia!;" />
 </h1>
 
-<h3 align="center">A Passionate Front-End Devoloper </h3>
+<h3 align="center">A Passionate Frontend Engineer </h3>
 
 <br/>
 
 <div align="center">
  
+🌱 I’m currently building scalable web applications with React, Next.js, and TypeScript.
 
- 
- 🌱 I’m currently learning **React js**
+💬 Ask me about **HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS & Bootstrap**
 
-💬 Ask me about **HTML, CSS, Java Script and Bootstrap [here](www.linkedin.com/in/ahmed-yehia-6a126a302)**
-
-
- </div>
+</div>
  
 <div align="center"> 
-  <a href="ahmedyehia2715@gmail.com">
+  <a href="mailto:ahmedyehia2715@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/ahmed-yehia-6a126a302" target="_blank">
+  <a href="https://www.linkedin.com/in/yehia27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="tel:01200114991" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" />
   </a>
   <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
@@ -33,17 +33,12 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git,react,vue" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,mysql" /><br>
-    
-    
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,vue,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,python,mysql" /><br>
 </div>
 
 <br/>
 <hr/>
-
-
-
